@@ -23,7 +23,7 @@ Civil Engineer turned Data Engineer — passionate about building pipelines as s
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 - **Police Data Analysis** → Predicting crime rate using Python & SQL  
 - **ETL Pipeline** → Automated data flow from raw CSV → SQL Server → dashboard  
 - **Thebe Tech Solutions Analysis** → Insights into tech company profits and sales
