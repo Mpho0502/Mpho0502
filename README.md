@@ -19,6 +19,7 @@ Civil Engineer turned Data Engineer — passionate about building pipelines as s
 ![Databricks](https://img.shields.io/badge/Databricks-FC4C02?logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 ![Azure AZ-900](https://img.shields.io/badge/Azure%20AZ--900-0078D4?logo=microsoftazure&logoColor=white)
 
 ---
