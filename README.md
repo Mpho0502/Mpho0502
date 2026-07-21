@@ -30,8 +30,6 @@ Civil Engineer turned Data Engineer — passionate about building pipelines as s
 - **Thebe Tech Solutions Analysis** → Insights into tech company profits and sales
 - **Cloud Deployment** → Simple pipeline hosted on Azure Databricks + Snowflake
 
-*(Pin these repos so recruiters see them first!)*
-
 ---
 
 ## 🌱 Currently Learning
