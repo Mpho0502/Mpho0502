@@ -48,4 +48,14 @@ Civil Engineer turned Data Engineer — passionate about building pipelines as s
 
 ---
 
+## 📊 Profile Summary
+
+| **LinkedIn Views** | ![Views](https://img.shields.io/badge/344-blue?style=for-the-badge&logo=linkedin&logoColor=white) |
+|--------------------|-----------------------------------------------------------------------------------------------|
+| **Role**           | ![Role](https://img.shields.io/badge/Junior%20Data%20Engineer-4CAF50?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) |
+| **Experience**     | ![Experience](https://img.shields.io/badge/6%2B%20Months%20in%20Data-2196F3?style=for-the-badge&logo=databricks&logoColor=white) |
+| **Location**       | ![Location](https://img.shields.io/badge/Midrand%2C%20South%20Africa-FF9800?style=for-the-badge&logo=googlemaps&logoColor=white) |
+
+---
+
 > *“Whether it’s concrete or code, I build structures that last.”*
