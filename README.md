@@ -13,15 +13,15 @@ Civil Engineer turned Data Engineer — passionate about building pipelines as s
 ---
 
 ## 🛠️ Skills & Tools
-![SSIS](https://shields.io)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FC4C02?logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
-![GitHub](https://shields.io)
+![SSIS](https://img.shields.io/badge/SSIS-Integration%20Services-orange?logo=microsoft&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black?logo=github&logoColor=white)
 
 ---
 
