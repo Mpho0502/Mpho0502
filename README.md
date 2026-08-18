@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="Copilot_20260506_165242" src="https://github.com/user-attachments/assets/38330481-bed2-4b15-a9b8-4d6327f7f195" />
 
 ## 👋 Hi, I'm Mpho Matebesi
 
