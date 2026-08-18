@@ -1,7 +1,8 @@
-<img width="1536" height="1024" alt="Copilot_20260506_165242" src="https://github.com/user-attachments/assets/38330481-bed2-4b15-a9b8-4d6327f7f195" />
+<img width="1455" height="512" alt="mpho&#39;s work wallpaper" src="https://github.com/user-attachments/assets/d505843b-9282-4f27-8150-f34f3cfd7f2d" />
 
+---
 ## 👋 Hi, I'm Mpho Matebesi
-
+---
 Civil Engineer turned Data Engineer — passionate about building pipelines as strong as bridges.
 
 ---
@@ -30,7 +31,7 @@ Civil Engineer turned Data Engineer — passionate about building pipelines as s
 - **BrightLearn Data Engineering Project** → A clean data pipeline and warehouse to support reporting and decision-making using SSIS & SQL  
 - **Police Data Analysis** → Predicting crime rate using Python & SQL  
 - **ETL Pipeline** → Automated data flow from raw CSV → SQL Server → dashboard  
-- **Thebe Tech Solutions Analysis** → Insights into tech company profits and sales
+- **Thebe Tech Solutions Analysis** → Insights into tech company profits and sales using SQL
 - **Cloud Deployment** → Simple pipeline hosted on Databricks + Snowflake
 
 ---
@@ -43,7 +44,7 @@ Civil Engineer turned Data Engineer — passionate about building pipelines as s
 ---
 
 ## 📫 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/mpho-matebesi/) | [Email](matebesimoe89@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mpho-matebesi/) | [Email](matebesimoe89@gmail.com) | [Website](https://junior-data-engineer-mpho-matebesi.lovable.app/)
 
 ---
 
