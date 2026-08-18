@@ -20,21 +20,22 @@ Civil Engineer turned Data Engineer — passionate about building pipelines as s
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
-![Azure AZ-900](https://img.shields.io/badge/Azure%20AZ--900-0078D4?logo=microsoftazure&logoColor=white)
+
 
 ---
 
 ## 📂 Projects
+- **BrightLearn Data Engineering Project** → A clean data pipeline and warehouse to support reporting and decision-making using SSIS & SQL  
 - **Police Data Analysis** → Predicting crime rate using Python & SQL  
 - **ETL Pipeline** → Automated data flow from raw CSV → SQL Server → dashboard  
 - **Thebe Tech Solutions Analysis** → Insights into tech company profits and sales
-- **Cloud Deployment** → Simple pipeline hosted on Azure Databricks + Snowflake
+- **Cloud Deployment** → Simple pipeline hosted on Databricks + Snowflake
 
 ---
 
 ## 🌱 Currently Learning
 - Big Data frameworks (Spark, Databricks)  
-- Cloud Data Warehousing (Snowflake, Azure Synapse)  
+- Cloud Data Warehousing (Snowflake, AWS)  
 - Advanced ETL orchestration (Airflow)
 
 ---
